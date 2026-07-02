@@ -4,6 +4,9 @@ Welcome to the ICES Working Group on Machine Learning in Marine Science.  The wo
 
 ## Terms of Reference
 
+The Terms of Reference defines the scope and remit of the working group, and are revisited and changed for each three-year period.
+A copy of the current terms of reference can be found in the [docs/](docs/WGMLEARN (2025MTDSTSG02).pdf) directory.  In brief:
+
 ### ToR a
 
 Develop a list of relevant topics and tasks for the application of Artificial Intelligence (AI) and Machine Learning (ML), with emphasis on unmet challenges specific to the marine domain and potential benefits. Integrate the output from Workshop on Applying AI in ICES (WKAAII) and link to relevant ICES working groups, research groups, and public datasets.
