@@ -8,7 +8,7 @@ https://www.ices.dk/community/groups/Pages/WGMLEARN.aspx
 ## Terms of Reference
 
 The Terms of Reference defines the scope and remit of the working group, and are revisited and changed for each three-year period.
-A copy of the current terms of reference can be found in the [docs/](docs/WGMLEARN (2025MTDSTSG02).pdf) directory.  In brief:
+A copy of the current terms of reference can be found in the [docs/](docs/) directory.  In brief:
 
 ### ToR a
 
