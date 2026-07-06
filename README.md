@@ -1,13 +1,14 @@
 # WGMLEARN - the Working Group on Machine LEARNing in marine science
 
 Welcome to the ICES Working Group on Machine Learning in Marine Science.  The working group was established following the 2018 [Workshop on Machine Learning in Marine Science](https://www.ices.dk/news-and-events/news-archive/news/Pages/WKMLEARN.aspx) (WKMLEARN), chaired by Shaheen Syed and Ketil Malde.  WGMLEARN organizes a number of people working with machine learning in the marine sciences, and has been chaired by 
-* Jean-Olivier Irisson and Ketil Malde (2019-2021)
+
+### 2019-2021 Jean-Olivier Irisson and Ketil Malde
 
 [Final report](docs/WGMLEARN-report-2021.pdf)
 
-* Laura Uusittalo and Josean Fernandes (2023-2025?), and
+### 2023-2025? Laura Uusittalo and Josean Fernandes
 
-* Hassan Moustafhid and Ketil Malde ([2026-present](https://ices-library.figshare.com/ndownloader/files/59572682))
+### 2026-present: Hassan Moustafhid and Ketil Malde 
 
 [Terms of Reference](docs/WGMLEARN-ToRs-2026.pdf)
 
