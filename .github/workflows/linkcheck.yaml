@@ -17,10 +17,8 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Run Markdown Link Checker
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        uses: umbrelladocs/action-linkspector@v1
         with:
-          # Optional: point to a config file to bypass false positives or ignore specific URLs
-          # config-file: '.github/linters/mlc_config.json'
-          # Optional: only check files changed in the PR (great for large repositories)
-          check-modified-files-only: 'yes'
-          base-branch: 'main'
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review
+          fail_level: any
