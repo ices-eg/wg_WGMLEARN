@@ -1,0 +1,26 @@
+name: Check Markdown Links
+
+on:
+  push:
+    branches: [ main, draft ]
+  pull_request:
+    branches: [ main, draft ]
+#  schedule:
+#    # Runs every Monday at 13:00 UTC to catch newly broken external URLs
+#    - cron: "0 13 * * 1"
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Markdown Link Checker
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          # Optional: point to a config file to bypass false positives or ignore specific URLs
+          # config-file: '.github/linters/mlc_config.json'
+          # Optional: only check files changed in the PR (great for large repositories)
+          check-modified-files-only: 'yes'
+          base-branch: 'main'
