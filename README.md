@@ -1,6 +1,10 @@
 # WGMLEARN - the Working Group on Machine LEARNing in marine science
 
-Welcome to the ICES Working Group on Machine Learning in Marine Science.  The working group was established following the 2018 [Workshop on Machine Learning in Marine Science](https://www.ices.dk/news-and-events/news-archive/news/Pages/WKMLEARN.aspx) (WKMLEARN), chaired by Shaheen Syed and Ketil Malde.  WGMLEARN organizes a number of people working with machine learning in the marine sciences, and has been chaired by 
+Welcome to the ICES Working Group on Machine Learning in Marine Science.  The working group was established following the 2018 [Workshop on Machine Learning in Marine Science](https://www.ices.dk/news-and-events/news-archive/news/Pages/WKMLEARN.aspx) (WKMLEARN), chaired by Shaheen Syed and Ketil Malde.  WGMLEARN organizes a number of people working with machine learning in the marine sciences, 
+
+
+
+The group has been chaired by:
 
 ### 2019-2021 Jean-Olivier Irisson and Ketil Malde
 
@@ -14,7 +18,7 @@ Welcome to the ICES Working Group on Machine Learning in Marine Science.  The wo
 
 ## Activities
 
-* November 2026 - [WGMLEARN meeting](activities/2026-meeting.md), Copenhagen
+* Second week of November, 2026 - [WGMLEARN meeting](activities/2026-meeting.md), hosted by the Institute of Marine Reserach, Bergen, Norway.
 
 ## Official site
 
