@@ -12,6 +12,12 @@ Welcome to the ICES Working Group on Machine Learning in Marine Science.  The wo
 
 [Terms of Reference](docs/WGMLEARN-ToRs-2026.pdf)
 
+## Activities
+
+* November 2026 - [WGMLEARN meeting](activities/2026-meeting.md), Copenhagen
+
+## Official site
+
 The official ICES pages for the working group can be found here:
 https://www.ices.dk/community/groups/Pages/WGMLEARN.aspx
 
