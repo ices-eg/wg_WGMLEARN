@@ -1,7 +1,7 @@
 # 2026 WGMLEARN meeting
 
-When: November, 2026
-Where: ICES HQ, Copenhagen
+When: Second week of November (approximately three days between 9 and 13, TBD), 2026.
+Where: Institute of Marine Research, Bergen, Norway.
 
 ## Planned session topics
 
